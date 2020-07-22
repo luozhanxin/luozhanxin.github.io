@@ -52,6 +52,6 @@ extBaidu: true
 extMath: false
 
 # 友情链接
-#links:
-#  - title: 文科中的技术宅
-#    url: https://www.townwang.com
+links:
+  - title: kiuber
+    url: http://blog.kiuber.me
